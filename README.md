@@ -19,3 +19,4 @@ This PowerShell script automates the setup of a Python virtual environment (venv
    git clone https://github.com/yourusername/python-venv-setup.git
    cd python-venv-setup
    ```
+Add directory to your Path in enviromental variables and then just type autovenv everytime you want to make a venv. 
